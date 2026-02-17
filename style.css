@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 { color: #333; }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.box {
+    padding: 30px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.box h3 { margin: 0 0 10px 0; color: #444; }
+.box p { margin: 0; font-size: 14px; color: #666; }
+
+/* Colores pastel similares a la imagen de referencia */
+#box1 { background-color: #b2dfdb; } /* Teal claro */
+#box2 { background-color: #fff9c4; } /* Amarillo claro */
+#box3 { background-color: #ffe0b2; } /* Naranja claro */
+#box4 { background-color: #b2ebf2; } /* Cyan claro */
+#box5 { background-color: #d1c4e9; } /* Morado claro */
+#box6 { background-color: #ffcdd2; } /* Rojo/Rosa claro */
+#box7 { background-color: #e1bee7; } /* Fucsia claro */
+#box8 { background-color: #f8bbd0; } /* Rosa claro */

@@ -1,9 +1,13 @@
 # Laboratorio 2 - Programación Computacional IV
 
 **Institución:** Universidad Gerardo Barrios.
+
 **Materia:** Programación Computacional IV.
+
 **Actividad:** Laboratorio 2 - Primer Cómputo (Semana 5). 
+
 **Estudiante:** Kevin Antonio Castro Araujo.
+
 **Codigo:** SMSS032024.
 
 ## Análisis de Eventos 
